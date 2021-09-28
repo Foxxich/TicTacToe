@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kolko</string>
+    <string name="welcome_message">Welcome to tic-tac-toe game. Before playing, choose best option for you.</string>
+    <string name="size_desk">Choose the size of desk to play</string>
+    <string name="x_side">Player X :</string>
+    <string name="o_side">Player O :</string>
+    <string name="size_3x3">3 X 3</string>
+    <string name="size_5x5">5 X 5</string>
+    <string name="start_button">Start</string>
+    <string name="player_X">Player X wins!</string>
+    <string name="player_O">Player O wins!</string>
+</resources>
